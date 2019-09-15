@@ -1,4 +1,4 @@
-# snake_game
+# Tourism App UI design Challange
 
 A new Flutter project.
 
